@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej3_GA", "Ej3_GA\Ej3_GA.csproj", "{D2AB495C-E567-48DD-B024-AA63C8BEBA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AB495C-E567-48DD-B024-AA63C8BEBA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AB495C-E567-48DD-B024-AA63C8BEBA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AB495C-E567-48DD-B024-AA63C8BEBA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AB495C-E567-48DD-B024-AA63C8BEBA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECA3FC5-A217-4A2B-96BD-4524F4A00D19}
+	EndGlobalSection
+EndGlobal
