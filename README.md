@@ -12,6 +12,7 @@ Ejercicios de la UD28 API's con Token
 ![image](https://user-images.githubusercontent.com/76480566/107877583-9b6e9a00-6ecd-11eb-9af2-a118249ef49d.png)
 ![image](https://user-images.githubusercontent.com/76480566/107877607-b9d49580-6ecd-11eb-8e64-1fc670eef9a7.png)
 ![image](https://user-images.githubusercontent.com/76480566/107877656-1768e200-6ece-11eb-937f-f3bf3d0e0875.png)
+![image](https://user-images.githubusercontent.com/76480566/107889092-d645f180-6f10-11eb-8404-91cde13b5e16.png)
 
 
 ### CAPTURAS DE PROVEEDORES
@@ -19,6 +20,7 @@ Ejercicios de la UD28 API's con Token
 ![image](https://user-images.githubusercontent.com/76480566/107877827-f6ed5780-6ece-11eb-9bcb-731b58614b89.png)
 ![image](https://user-images.githubusercontent.com/76480566/107877840-12586280-6ecf-11eb-8c0f-e8eb123e5dab.png)
 ![image](https://user-images.githubusercontent.com/76480566/107877864-403da700-6ecf-11eb-9899-1fbbae902fa2.png)
+![image](https://user-images.githubusercontent.com/76480566/107889148-1016f800-6f11-11eb-8908-09e2f2f25b16.png)
 
 
 ### CAPTURAS DE SUMINISTRAS
